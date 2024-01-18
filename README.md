@@ -5,7 +5,8 @@ This is a basic exploration of how some open source LLMs fare when counterfactua
 
 ### Table of Contents
 
-### Extras
+### Additional
+
 #### How the project came about
 
 #### Motivation

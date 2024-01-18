@@ -1,21 +1,21 @@
 # counterfactuals_with_open_source_LLMs
 This is a basic exploration of how some open source LLMs fare when counterfactual questions are posed to them. Rather than being exhaustive and systematic, this exploration is more anecdotal. 
 
-## Process
+### Process
 
-## Table of Contents
+### Table of Contents
 
-## Extras
-### How the project came about
+### Extras
+#### How the project came about
 
-### Motivation
+#### Motivation
 
-### Limitations
+#### Limitations
 
-### Challenges
+#### Challenges
 
-### The problem this addresses
+#### The problem this addresses
 
-### Intended use
+#### Intended use
 
-### Credits
+#### Credits

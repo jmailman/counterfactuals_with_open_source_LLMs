@@ -3,9 +3,17 @@ This is a basic exploration of how some open source LLMs fare when counterfactua
 
 ### Process and tooling
 Ollama
+
 Docker
 
 ### Table of Contents
+#### code
+  
+#### docs
+
+#### models
+
+#### input
 
 ### Additional
 

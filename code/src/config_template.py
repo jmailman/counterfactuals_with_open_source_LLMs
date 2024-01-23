@@ -1,4 +1,4 @@
-# Rename this file config_template before including your confidential api keys
+# Rename this file config.py before including your confidential api keys
 
 import os
 

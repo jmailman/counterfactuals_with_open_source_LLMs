@@ -1,4 +1,5 @@
 # Custom
+config.py
 *.docx
 'Screen Shot'*
 docs/
